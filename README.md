@@ -50,4 +50,8 @@ We’ll walk through:
 - evaluate the best model on the test data
 
   ### OUTPUT :
+
+  ![Image](https://github.com/user-attachments/assets/1142d4ee-1e6c-4eb6-8bb2-bfb3afb42491)
+
+![Image](https://github.com/user-attachments/assets/a2dd325e-2ce0-4bd7-b8ca-12fca644f747)
   
